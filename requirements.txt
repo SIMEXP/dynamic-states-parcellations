@@ -24,7 +24,6 @@ decorator==4.4.1
 defusedxml==0.6.0
 dill==0.3.1.1
 distributed==2.10.0
-dynamicparcels==0.1.1
 entrypoints==0.3
 Flask==1.1.1
 Flask-Compress==1.4.0
